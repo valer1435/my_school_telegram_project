@@ -1,1 +1,8 @@
-# This repository includes my telegram bots that I've created in Yandex-lyceum. All of bots have a full description. Enjoy
+# Различные телеграм боты
+Здесь представлено несколько учебных телеграм-ботов, написанных в ходе обучения в Яндекс-лицее.
+
+
+1) Бот-викторина
+2) Бот для игры в alias
+3) Бот-переводчик
+4) Бот-геокодер
